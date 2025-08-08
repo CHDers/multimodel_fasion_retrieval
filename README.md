@@ -178,7 +178,7 @@ npm run dev
 ## 🔧 配置说明
 
 ### 后端配置
-在 `api/config.py` 中配置：
+在 `api/main.py` 中配置：
 - 向量数据库路径
 - 模型文件路径
 - API端口设置
