@@ -34,3 +34,6 @@ Thumbs.db
 
 # 前端依赖
 node_modules/
+
+.DS_Store
+__pycache__/
